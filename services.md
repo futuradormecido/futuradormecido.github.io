@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Services that grow with your business
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+We craft premium enterprise-grade software for a wide range of clients. Our dedicated team of experts transforms ideas into products that people love.
