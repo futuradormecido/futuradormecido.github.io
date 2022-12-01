@@ -19,3 +19,6 @@ footer:
   - name: "Contact"
     url: "/contact/"
     weight: 2
+  - name: "Address: R. Prof. Dr. Egas Moniz 2 1F, 2765-207 Estoril"
+    weight: 3
+
